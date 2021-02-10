@@ -4,13 +4,13 @@ It can be embedded into any JavaScript-based web application.
 
 Installation is very simple via npm:
 
-´´´bash
+```bash
 npm install lemon-markets-job-descriptions
-´´´
+```
 
 Afterwards, you can easily integrate it into your JavaScript application, e.g. in a React project.
 
-´´´javascript
+```javascript
 useEffect(()=>{
         async function printJobs(){
             const jobs_log = require('lemon-markets-job-descriptions');
@@ -19,6 +19,6 @@ useEffect(()=>{
         printJobs()
 
                 },[])
-´´´
+```
 
 This will then print the job description to the console when the respective page is loaded. 
