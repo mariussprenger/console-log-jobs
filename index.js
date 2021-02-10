@@ -1,5 +1,5 @@
 module.exports = () => {
-    return console.log(
+    return (
 `Glad you found us. 
 We are always looking for great devevlopers at lemon.markets that are interested in looking behind the curtain and finding out how things work.
 Do you see yourself in any of the roles below?
