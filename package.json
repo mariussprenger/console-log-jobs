@@ -1,6 +1,6 @@
 {
   "name": "console-log-jobs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "with this package you can print current job offers to our console",
   "main": "index.js",
   "scripts": {
