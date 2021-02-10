@@ -1,5 +1,4 @@
-module.exports = (jobdescription) => {
-    return console.log(`Glad you found us. 
+module.exports = `Glad you found us. 
 We are always looking for great devevlopers at lemon.markets that are interested in looking behind the curtain and finding out how things work.
 Do you see yourself in any of the roles below?
 
@@ -24,5 +23,4 @@ The title of this page puts it very well. This is not about a specific role, but
 ---
 
 Interested?
-Come visit ${jobdescription} to find out if we are a great match.`);
-}
+Come visit us to find out if we are a great match.`;
