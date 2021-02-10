@@ -1,6 +1,5 @@
 module.exports = () => {
-    return (
-`Glad you found us. 
+    return `Glad you found us. 
 We are always looking for great devevlopers at lemon.markets that are interested in looking behind the curtain and finding out how things work.
 Do you see yourself in any of the roles below?
 
@@ -25,5 +24,5 @@ The title of this page puts it very well. This is not about a specific role, but
 ---
 
 Interested?
-Come visit https://www.notion.so/Welcome-to-lemon-markets-b371efff6ffe4803b9cb1aba5df39bf3 to find out if we are a great match.`);
+Come visit https://www.notion.so/Welcome-to-lemon-markets-b371efff6ffe4803b9cb1aba5df39bf3 to find out if we are a great match.`;
 }
