@@ -1,6 +1,6 @@
 {
   "name": "lemon-markets-job-descriptions",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "with this package you can print current job offers to our console",
   "main": "index.js",
   "scripts": {
