@@ -23,4 +23,4 @@ The title of this page puts it very well. This is not about a specific role, but
 ---
 
 Interested?
-Come visit us to find out if we are a great match.`;
+Come visit us at https://www.notion.so/Welcome-to-lemon-markets-b371efff6ffe4803b9cb1aba5df39bf3 find out if we are a great match.`;
